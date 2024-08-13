@@ -6,7 +6,6 @@ To run the application, you need to configure the `.env` file with the required 
 
 ```env
 MONGO_URI=mongodb://localhost:27018/mydatabase
-PORT=3333
 ```
 
 ## **Running MongoDB in a Docker Container**
