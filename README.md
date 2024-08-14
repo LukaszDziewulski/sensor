@@ -1,12 +1,5 @@
 # **Sensor Data Project**
 
-## **Environment Configuration**
-
-To run the application, you need to configure the `.env` file with the required environment variables. Example:
-
-```env
-MONGO_URI=mongodb://localhost:27018/mydatabase
-```
 
 ## **Running MongoDB in a Docker Container**
 
